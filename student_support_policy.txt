@@ -1,0 +1,20 @@
+STUDENT SUPPORT POLICY
+======================
+
+1. TUITION FEE STATUS
+Students can request information about their tuition fee status through the student support system. The system displays the fee status available in the student record. For clarification about payments or outstanding balances, students should raise a support request with the student support team.
+
+2. SCHOLARSHIPS
+Scholarship information is available in the student's record. The record indicates whether the student is marked as a scholarship holder. Students who need clarification about scholarship eligibility, renewal, or disbursement should contact the student support team.
+
+3. SUPPORT REQUESTS
+Students can submit support requests describing their issue. Each successfully created request receives a request ID and an initial status of Open. Students should retain the request ID for future reference.
+
+4. PRIVACY AND ACCESS CONTROL
+Students may access only their own student records. Access to another student's private record must be denied. Passwords, OTPs, passcodes, and other authentication credentials must not be stored in persistent memory or support request records.
+
+5. SENSITIVE ACTIONS
+Sensitive changes to student records require explicit confirmation and approval by an authorized human reviewer before execution. If an action is rejected, the requested change must not be executed. The system must maintain an audit record of the attempt and outcome.
+
+6. DATA LIMITATIONS
+Demo datasets and generated student IDs are for testing only. They are not verified university records and must not be presented as official student information.
